@@ -12,9 +12,9 @@ setup(
     version='0.1.0',
     author='Digital Innovation, Lancaster University Library',
     author_email='library.dit@lancaster.ac.uk',
-    description='Python tools for working with Alma Analytics data',
+    description='A Python client for the Ex Libris Alma web services API',
     long_description=long_description,
-    url='https://github.com/lulibrary/alma-analytics-py',
+    url='https://github.com/andyhartland/alma-py',
     packages=find_packages(exclude=['docs', 'test*']),
     license='MIT',
     classifiers=[
